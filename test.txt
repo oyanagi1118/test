@@ -1,3 +1,6 @@
 新規追加
 masterで追加(commit1回目)
+foo_1_devで追加(commit1回目)
+foo_1_devで追加(commit2回目)
+foo_1_devで追加(commit3回目)
 
